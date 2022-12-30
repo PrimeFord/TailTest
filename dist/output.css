@@ -517,22 +517,17 @@ video {
   text-align: center;
 }
 
-.align-middle {
-  vertical-align: middle;
-}
-
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
 }
 
-.font-bold {
-  font-weight: 700;
+.text-\[2rem\] {
+  font-size: 2rem;
 }
 
-.text-red-100 {
-  --tw-text-opacity: 1;
-  color: rgb(254 226 226 / var(--tw-text-opacity));
+.font-bold {
+  font-weight: 700;
 }
 
 .text-red-700 {
